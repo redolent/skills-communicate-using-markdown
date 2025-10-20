@@ -3,3 +3,8 @@
 ### My header 3
 
 ![Image of Windows](https://coffeecompute.com/wp-content/themes/twentytwentyfour/assets/images/windows.webp)
+
+### The bash fork bomb:
+```
+:(){ :|:& };:
+```
