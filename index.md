@@ -8,3 +8,8 @@
 ```
 :(){ :|:& };:
 ```
+
+- [ ] Do the hokey pokey
+- [ ] put your left leg in
+- [ ] put your right leg in
+- [ ] turn yourself around
